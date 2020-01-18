@@ -1,2 +1,2 @@
-# rackathon
+# Rackathon
 Rakathon Day 1
